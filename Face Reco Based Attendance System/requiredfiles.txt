@@ -1,0 +1,3 @@
+conda create -n att python=3.6
+conda activate att
+pip install opencv-python numpy pillow sklearn tensorflow mtcnn pandas
